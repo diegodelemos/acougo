@@ -1,0 +1,12 @@
+title: Mis notas
+description: Mis notas.
+url: https://diegodelemos.github.io
+baseurl: /acougo
+lang: es
+timezone: Europe/Madrid
+markdown: kramdown
+permalink: /:title/
+future: false
+
+exclude:
+  - README.md
